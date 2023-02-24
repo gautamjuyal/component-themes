@@ -30,7 +30,7 @@ Button components with their respective hover style.
 ### btn4
 
 ![Demo](/Images/btn4.png)
-![Demo](/Images/btn4hover.png)![Demo](/Images/btn1.png)
+![Demo](/Images/btn4hover.png)
 
 ### btn 5
 
